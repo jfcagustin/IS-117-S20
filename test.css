@@ -1,4 +1,20 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: Arial, sans-serif;
+    color: navy;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: Georgia, sans-serif;
+}
+
 p {
-    font-size: 150px;
-    color: blue;
+    font-size: 20px;
+    font-family: Calibri, sans-serif;
+    color: darkred;
 }
