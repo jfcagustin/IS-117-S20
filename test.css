@@ -6,11 +6,13 @@ h1 {
     font-size: 100px;
     font-family: Arial, sans-serif;
     color: navy;
+    border: 5px dashed darksalmon;
 }
 
 h2 {
     font-size: 50px;
     font-family: Georgia, sans-serif;
+    border: 4px solid navy;
 }
 
 p {
@@ -24,4 +26,5 @@ footer {
     color: deeppink;
     font-family: Arial, sans-serif;
     font-size: 20px;
+    border: 2px dashed hotpink;
 }
